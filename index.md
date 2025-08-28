@@ -9,3 +9,7 @@ x=27
 for i in range:
   print("hello")
 ```
+
+- [x] do work
+- [x] wake up
+- [ ] sleep
